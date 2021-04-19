@@ -10,7 +10,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 source 'https://github.com/herowio/Specs'
 
-platform :ios, '9.0'
+platform :ios, '11.0'
 
 target 'YourtTarget' do
   use_frameworks!
